@@ -1,7 +1,3 @@
-Certainly! Here's a concise README for your React investment calculator project:
-
----
-
 # Investment Calculator React App
 
 This React application provides a simple investment calculator feature. It enables users to input parameters such as initial investment, annual investment, expected rate of return, and investment duration to calculate and visualize the growth of their investments over time.
