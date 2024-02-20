@@ -7,6 +7,10 @@ This React application provides a simple investment calculator feature. It enabl
 - **Calculation**: Utilizes provided parameters to calculate investment growth over the specified duration.
 - **Visualization**: Presents investment data in a tabular format for easy understanding.
 
+## Demo
+
+![demo](./readme-demo/ezgif.com-video-to-gif-converter.gif)
+
 ## How to Use
 
 1. Clone this repository to your local machine.
