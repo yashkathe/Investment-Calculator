@@ -9,7 +9,7 @@ This React application provides a simple investment calculator feature. It enabl
 
 ## Demo
 
-![demo](./readme-demo/ezgif.com-video-to-gif-converter.gif)
+<image src="./readme-demo/ezgif.com-video-to-gif-converter.gif" height="400">
 
 ## How to Use
 
